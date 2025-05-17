@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # fitness-app
-create a fitness app
+create a fitness app for local
 =======
 # Fitness App
 
